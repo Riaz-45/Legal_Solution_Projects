@@ -1,16 +1,13 @@
-
-.eb-garamond-font {
+.eb-garamond {
   font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
+  font-style: normal;
 }
 
 .poppins-regular {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
-.text-color{
-    color: rgba(112, 112, 112, 1);
 }
 
 @import "tailwindcss"
